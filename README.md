@@ -45,7 +45,7 @@ Hi, I’m **Krushna Wairale**, a **MERN Stack and Java developer** with a passio
 ## 🔥 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krushna-Wairale&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krushna-Wairale&theme=tokyonight" width="45%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krushna-Wairale&theme=tokyonight" width="45%" /> -->
 </p>
 
 
@@ -67,6 +67,9 @@ Hi, I’m **Krushna Wairale**, a **MERN Stack and Java developer** with a passio
     <img src="https://youtube.com/@adarshwairale7699?si=8ypakCmNwgywWNzV" alt="YouTube"/>
   </a>
 </p>
+
+- 📧 Email: [krushnawairalebe@gmail.com](mailto:krushnawairale@gmail.com)  
+- 📞 Contact: +91-7823847403
 
 ---
 

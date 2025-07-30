@@ -44,9 +44,10 @@ Hi, I’m **Krushna Wairale**, a **MERN Stack and Java developer** with a passio
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krushnawairale&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnawairale&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krushna-Wairale&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krushna-Wairale&theme=tokyonight" width="45%" />
 </p>
+
 
 ---
 
@@ -54,16 +55,16 @@ Hi, I’m **Krushna Wairale**, a **MERN Stack and Java developer** with a passio
 
 <p align="left">
   <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://www.linkedin.com/in/krushna-wairale-b6746b295" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://www.instagram.com/adarshwairale?igsh=MWxibTc5dTduMXhkcg==" alt="Instagram"/>
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="krushnawairalebe@gmail.com" alt="Gmail"/>
   </a>
   <a href="https://youtube.com/your-channel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://youtube.com/@adarshwairale7699?si=8ypakCmNwgywWNzV" alt="YouTube"/>
   </a>
 </p>
 
@@ -71,7 +72,7 @@ Hi, I’m **Krushna Wairale**, a **MERN Stack and Java developer** with a passio
 
 ## 💡 Quote I Live By
 
-> "Code is creative. Build things that inspire."
+> ""Creativity is intelligence having fun. Build things that inspire."
 
 ---
 

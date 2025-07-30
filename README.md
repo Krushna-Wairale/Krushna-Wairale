@@ -54,21 +54,21 @@ Hi, I’m **Krushna Wairale**, a **MERN Stack and Java developer** with a passio
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://www.linkedin.com/in/krushna-wairale-b6746b295" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/krushna-wairale-b6746b295" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/your-username" target="_blank">
-    <img src="https://www.instagram.com/adarshwairale?igsh=MWxibTc5dTduMXhkcg==" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="krushnawairalebe@gmail.com" alt="Gmail"/>
+  <a href="mailto:krushnawairalebe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://youtube.com/your-channel" target="_blank">
-    <img src="https://youtube.com/@adarshwairale7699?si=8ypakCmNwgywWNzV" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
-- 📧 Email: [krushnawairalebe@gmail.com](mailto:krushnawairale@gmail.com)  
+- 📧 Email: [krushnawairalebe@gmail.com](mailto:krushnawairalebe@gmail.com)  
 - 📞 Contact: +91-7823847403
 
 ---

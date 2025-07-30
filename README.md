@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Krushna Wairale</h1>
-<h3 align="center">MERN Stack | Java Developer | Content Creator | Video Editor | Entrepreneur | Photography </h3>
+<h3 align="center">MERN Stack | Java Developer | Content Creator | Video Editor | Entrepreneur | Photographer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krushnawairale&label=Profile%20views&color=0e75b6&style=flat" alt="krushnawairale" />

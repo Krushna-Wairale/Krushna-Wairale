@@ -34,11 +34,12 @@ Hi, I’m **Krushna Wairale**, a **MERN Stack and Java developer** with a passio
 ---
 
 ### 🎥 Creative & Media Skills
-- 📸 Photography & Cinematography  
-- 🎬 Video Editing & Content Creation  
-- 🎨 Branding & Digital Design  
-- 📱 Social Media Marketing
-
+![Content Creation](https://img.shields.io/badge/Content%20Creation-E4405F?style=flat&logo=contentful&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video%20Editing-FBCA04?style=flat&logo=adobe-premiere-pro&logoColor=white)
+![Cinematography](https://img.shields.io/badge/Cinematography-000000?style=flat&logo=aparat&logoColor=white)
+![Photography](https://img.shields.io/badge/Photography-8A2BE2?style=flat&logo=canon&logoColor=white)
+![Branding](https://img.shields.io/badge/Branding-FF6347?style=flat&logo=adobe-illustrator&logoColor=white)
+![Social Media](https://img.shields.io/badge/Social%20Media-1877F2?style=flat&logo=facebook&logoColor=white)
 ---
 
 ## 🔥 GitHub Stats

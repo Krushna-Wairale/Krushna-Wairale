@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Krushna Wairale</h1>
-<h3 align="center">MERN Stack & Java Developer | Content Creator | Tech + Creativity Enthusiast</h3>
+<h3 align="center">MERN Stack | Java Developer | Content Creator | Video Editor | Entrepreneur | Photography </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krushnawairale&label=Profile%20views&color=0e75b6&style=flat" alt="krushnawairale" />
@@ -57,13 +57,13 @@ Hi, I’m **Krushna Wairale**, a **MERN Stack and Java developer** with a passio
   <a href="https://www.linkedin.com/in/krushna-wairale-b6746b295" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/your-username" target="_blank">
+  <a href="https://www.instagram.com/adarshwairale?igsh=MWxibTc5dTduMXhkcg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:krushnawairalebe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://youtube.com/your-channel" target="_blank">
+  <a href="https://youtube.com/@adarshwairale7699?si=8ypakCmNwgywWNzV" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
